@@ -142,6 +142,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--tx);min-h
 .wheel-res{font-weight:700;font-size:18px;min-height:28px;margin-bottom:10px;font-family:'Space Mono',monospace;text-align:center}
 
 /* PAC-MAN */
+
 .pm-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
 .pm-stat{font-family:'Space Mono',monospace;font-size:13px;font-weight:700}
 .pm-label{font-size:10px;color:var(--tx2);margin-bottom:2px}
