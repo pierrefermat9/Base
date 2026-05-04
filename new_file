@@ -325,6 +325,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--tx);min-h
   </div>
 
   <!-- PANE: GAMES -->
+
   <div class="pane" id="pane-games">
     <div class="sub-tabs">
       <button class="sub-tab on" id="stab-pacman" onclick="switchSubTab('pacman')">&#127919; Pic-Man</button>
