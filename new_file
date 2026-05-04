@@ -129,6 +129,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--tx);min-h
 .sub-pane{display:none}.sub-pane.on{display:block}
 
 /* DICE */
+
 .dice-masa{background:linear-gradient(145deg,#1a7a42,#0d4a28);border-radius:16px;border:6px solid #8B6914;padding:32px 20px;margin-bottom:14px;display:flex;justify-content:center;gap:40px;min-height:150px;align-items:center}
 .dice-box{width:80px;height:80px;background:#fff;border-radius:12px;display:flex;align-items:center;justify-content:center;box-shadow:3px 4px 12px rgba(0,0,0,.5);transition:background .2s}
 .dice-res{text-align:center;font-weight:700;font-size:18px;min-height:28px;margin-bottom:10px;font-family:'Space Mono',monospace}
