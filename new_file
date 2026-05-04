@@ -604,6 +604,7 @@ function pmEatPellet(){
 }
 
 function pmTickPac(){
+
   // Yön buffering: birkaç tick boyunca dene
   if(PM.ndxTtl>0){
     if(!pmIsWall(PM.row+PM.ndy, PM.col+PM.ndx)){
