@@ -1070,6 +1070,7 @@ async function updateAllStats(){
 }
 
 // ─── CHECK-IN ─────────────────────────────────────────────────────────────────
+
 async function doCheckIn(){
   if(!acct){openModal();return;}
   setSts('ck-sts','pnd','Imzalaniyor...');
