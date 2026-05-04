@@ -956,6 +956,7 @@ async function checkNetwork(){
 }
 
 function updateUIConnected(){
+
   document.getElementById('wlt-adr').textContent=acct.slice(0,6)+'...'+acct.slice(-4);
   var btn=document.getElementById('con-btn'); btn.textContent='Baglantıyı Kes'; btn.classList.add('off');
   if(acct.toLowerCase()===ADMIN_ADDRESS.toLowerCase()){document.getElementById('tab-admin').classList.add('show');updateAdminStats();}
