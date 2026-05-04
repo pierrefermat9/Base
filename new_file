@@ -500,6 +500,7 @@ var acct=null,prov=null,sgn=null,rawProv=null;
 var wheelAngle=0,wlts={},toastTimer=null,isFrameEnv=false;
 
 // ─── PAC-MAN OYUNU ───────────────────────────────────────────────────────────
+
 // v4 - Tüm bilinen sorunlar düzeltildi:
 // • Yön buffering: ndx/ndy 5 tick boyunca saklanır, ilk geçerli anda uygulanır
 // • Tunnel: sadece doğru satırda çalışır
