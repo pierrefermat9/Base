@@ -870,6 +870,7 @@ function pmStartOrRestart(){
 }
 
 function pmDir(dx,dy){
+
   PM.ndx=dx; PM.ndy=dy;
   PM.ndxTtl=5; // 5 tick boyunca dene
 }
