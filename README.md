@@ -33,3 +33,4 @@
 #New Update 1.3.9
 #New Update 1.4.0
 #New Update 1.4.1
+#New Update 1.4.2
