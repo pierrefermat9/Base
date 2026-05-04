@@ -378,6 +378,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--tx);min-h
     </div>
 
     <!-- SUB: DICE -->
+
     <div class="sub-pane" id="spane-dice">
       <div class="card">
         <div class="ctitle">&#127922; Zar Oyunu</div>
