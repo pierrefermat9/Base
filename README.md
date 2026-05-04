@@ -21,3 +21,4 @@
 #New Update 1.2.7
 #New Update 1.2.8
 #New Update 1.2.9
+#New Update 1.3.0
