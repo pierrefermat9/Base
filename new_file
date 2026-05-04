@@ -135,6 +135,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--tx);min-h
 .dice-res{text-align:center;font-weight:700;font-size:18px;min-height:28px;margin-bottom:10px;font-family:'Space Mono',monospace}
 
 /* WHEEL */
+
 .wheel-wrapper{position:relative;display:inline-block;margin-bottom:15px}
 .wheel-pointer{position:absolute;top:-14px;left:50%;transform:translateX(-50%);font-size:24px;z-index:10}
 #wheel-cv{border-radius:50%;box-shadow:0 4px 24px rgba(0,0,0,.2)}
